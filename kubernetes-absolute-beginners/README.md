@@ -6,10 +6,10 @@ The code written following the [Kubernetes for the Absolute Beginners - Hands-on
 
 ### Section 1: Introduction
 
-+ [ ] Introduction
-+ [ ] Accessing the Lab
-+ [ ] Course setup
-+ [ ] Course release notes
++ [x] Introduction
++ [x] Accessing the Lab
++ [x] Course setup
++ [x] Course release notes
 
 ### Section 2: Kubernetes Overview
 
