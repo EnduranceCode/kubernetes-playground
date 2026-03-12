@@ -13,14 +13,14 @@ The code written following the [Kubernetes for the Absolute Beginners - Hands-on
 
 ### Section 2: Kubernetes Overview
 
-+ [ ] Containers Overview
-+ [ ] Container Orchestration
-+ [ ] Kubernetes Architecture
-+ [ ] Docker-vs-ContainerD
-+ [ ] A note on Docker deprecation
-+ [ ] Quiz 1: Architecture
-+ [ ] Student Preferences
-+ [ ] A Quick Reminder
++ [x] Containers Overview
++ [x] Container Orchestration
++ [x] Kubernetes Architecture
++ [x] Docker-vs-ContainerD
++ [x] A note on Docker deprecation
++ [x] Quiz 1: Architecture
++ [x] Student Preferences
++ [x] A Quick Reminder
 
 ### Section 3: Kubernetes Concepts
 
