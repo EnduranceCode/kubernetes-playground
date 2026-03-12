@@ -24,12 +24,12 @@ The code written following the [Kubernetes for the Absolute Beginners - Hands-on
 
 ### Section 3: Kubernetes Concepts
 
-+ [ ] Kubernetes Setup - Introduction and Minikube
-+ [ ] Demo - Minikube-Setup
-+ [ ] Pods
-+ [ ] Demo - Pods
-+ [ ] Reference - Pods
-+ [ ] Quiz 2: Pods
++ [x] Kubernetes Setup - Introduction and Minikube
++ [x] Demo - Minikube-Setup
++ [x] Pods
++ [x] Demo - Pods
++ [x] Reference - Pods
++ [x] Quiz 2: Pods
 
 ### Section 4: YAML Introduction
 
